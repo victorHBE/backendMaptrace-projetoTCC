@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const URI = 'mongodb+srv://admin:e01GkYhTANBNBmxA@cluster0.ueor9jq.mongodb.net/?retryWrites=true&w=majority'
+const URI = 'SUA URL'
 
 const databaseConnection = async () => {
     if (!global.mongoose) {
